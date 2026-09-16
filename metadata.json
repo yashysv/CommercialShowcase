@@ -1,0 +1,6 @@
+{
+  "name": "Commercial Showcase",
+  "description": "Commercial Showcase is a premier AI-driven digital marketing and growth agency combining strategy, creative production, performance marketing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
